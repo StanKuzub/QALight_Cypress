@@ -1,3 +1,3 @@
 Hello world
 merge conflict test
-
+Hello world
